@@ -14,7 +14,7 @@ Designed by:
 
 > SEUer Group, Southeast University
 
-[![picture](https://github.com/seujingwei/dac_sdc_2023_champion/raw/master/ranking.png)]()
+[![picture](https://github.com/AiArtisan/dac_sdc_2023_champion/raw/master/ranking.png)]()
 
 
 ## Contributions
